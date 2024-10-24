@@ -1,0 +1,65 @@
+.nav-bar {
+  background-color: #e6e9ec;
+  padding-left: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.logo {
+  height: 100px;
+  width: 200px;
+}
+
+.optionInput {
+  width: 250px;
+  height: 35px;
+  border-radius: 5px;
+  margin-top: 25px;
+  margin-left: 50px;
+}
+
+.lists-item {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  flex-wrap: wrap;
+}
+
+.list-item {
+  margin: 25px;
+  box-shadow: 0 0 4px 0;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.name-heading {
+  font-size: 20px;
+  padding: 15px;
+  padding-left: 25px;
+}
+
+.ima {
+  height: 275px;
+  width: 275px;
+}
+
+.para {
+  color: #475569;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.but {
+  background-color: #328af2;
+  color: #ffffff;
+  padding: 7px;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+}
+
+.display-cont{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
